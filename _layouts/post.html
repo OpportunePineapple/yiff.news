@@ -1,0 +1,19 @@
+---
+layout: default
+title: {{ page.title }}
+description: {{ page.description }}
+author: {{ page.author }}
+---
+<header>
+    <h1>-=-- ✦ --= The Yiffy Times =-- ✦ --=-</h1>
+    <p>Soviet Furryland's Premier NSFW Commentary Source</p>
+    <hr>
+</header>
+
+<em><a href="/index.html">Back to home.</a></em>
+
+<h2>{{ page.title }} </h2>
+<h3>{{ page.description }}</h3>
+<h4><em class="small">Article by {{ page.author }} • {{ page.date | date: "%Y-%m-%d" }}</em></h4>
+
+{{ content }}
