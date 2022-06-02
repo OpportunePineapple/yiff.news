@@ -7,10 +7,10 @@ author: B
 
 From the beginning of human history, man has attempted to find
 patterns in every aspect of life and assign meaning to them
-as symbols. It's how communicate meaning to other people
-and survive in the social world we live in.
+as symbols. It's how we communicate meaning to other people
+and survive in the social world that we live in.
 
-Food, sex, drugs — nothing is sacred from this symbolic interactionism.
+Food, sex, drugs - nothing is sacred from this symbolic interactionism.
 A prime example of this is numbers. One might think that a construct
 so mathematically, scientifically pure as numbers couldn't be corrupted.
 Indeed, that presumption turns out to be false.
