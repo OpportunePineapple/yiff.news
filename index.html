@@ -10,7 +10,7 @@ description: "Soviet Furryland's Premier NSFW Commentary Source"
     <ul>
         {% for post in site.posts %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <h4><em>Article by {{ post.author }} • {{ post.date | date: "%Y-%m-%d" }}</em></h4>
+        <h5><em>Article by {{ post.author }} • {{ post.date | date: "%Y-%m-%d" }}</em></h5>
         {% endfor %}
     </ul>
 </div>
