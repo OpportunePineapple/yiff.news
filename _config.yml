@@ -1,0 +1,8 @@
+url: "https://yiff.news"
+
+plugins:
+    - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-seo-tag
+
+exclude: ["CNAME"]

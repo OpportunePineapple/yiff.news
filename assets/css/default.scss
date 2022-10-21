@@ -1,0 +1,52 @@
+---
+---
+
+body {
+    margin: 60px auto;
+    max-width: 700px;
+    padding: 0 10px;
+
+    color: #222;
+    line-height: 1.2;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Bungee Inline", cursive;
+}
+
+h2 {
+    font-family: "Russo One", sans-serif;
+}
+
+h3 {
+    font-family: "Russo One", sans-serif;
+    font-size: 16px;
+}
+
+h4 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+p {
+    font-family: "Courier New", Courier, monospace;
+    text-indent: 40px;
+}
+
+.no-spacing {
+    font-family: "Courier New", Courier, monospace;
+    white-space: pre-line;
+}
+
+.small {
+    font-size: 13px;
+}
+
+.posts {
+    max-width: 400px;
+}
