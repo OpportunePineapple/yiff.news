@@ -20,12 +20,14 @@ numbers. With how many there are, it can be tough to remember them all.
 So then, here is a helpful list, which may be occasionally updated to
 reflect the times.
 
-| number | description/associated with            |
-| ------ | -------------------------------------- |
-| 34     | lewd drawings of mainstream characters |
-| 42     | life, the universe, and everything     |
-| 69     | sex position                           |
-| 420    | marijuana                              |
-| 621    | popular yiff-hosting service e621.net  |
-| 926    | sfw counterpart of e621.net            |
-| 1337   | leet hacker                            |
+| number  | description/associated with                                             |
+| ------- | ----------------------------------------------------------------------- |
+| 34      | lewd drawings of mainstream characters                                  |
+| 42      | life, the universe, and everything                                      |
+| 69      | sex position                                                            |
+| 420     | marijuana                                                               |
+| 621     | popular yiff-hosting service e621.net                                   |
+| 666     | the devil                                                               |
+| 926     | sfw counterpart of e621.net                                             |
+| 1337    | leet hacker                                                             |
+| 8008135 | if entered into a calculator and viewed upside-down, displays "BOOBIES" |
